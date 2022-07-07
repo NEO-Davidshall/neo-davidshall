@@ -20,7 +20,7 @@ Ja, det är man! Alla byggnaderna är miljöcertifierade av SGBC och du som medl
 
 ### Behöver man skaffa bostadsrättstillägg till sin hemförsäkring?
 
-Nej, detta behöver man inte skaffa själv, då föreningen redan har ett kollektivt
+Nej, detta behöver man inte skaffa själv då föreningen redan har ett kollektivt
 bostadsrättstillägg för alla lägenheter.
 
 ### Vad har föreningen för digitala anslutningar?
