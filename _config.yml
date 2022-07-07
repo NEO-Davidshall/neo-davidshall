@@ -23,10 +23,8 @@ tagline: Gamla polishuset i Malmö
 author: Styrelsen
 email: styrelsen@neodavidshall.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Brf NEO Davidshall ligger beläget mitt i Malmös centrum intill
-  Davidshallstorg. Föreningen består av 122 lägenheter och fyra gemensamma
-  utrymmen: en samlingslokal, ett orangeri, en övernattningslägenhet samt en
-  takterrass!
+  NEO Davidshall är en bostadsrättsförening som ligger belägen mitt i Malmös
+  centrum intill Davidshallstorg.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.neodavidshall.org" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/logo.png
