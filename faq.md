@@ -11,7 +11,7 @@ Om detta är fallet så framgår det av förvaltningsberättelsen i den senaste
 
 ### Tillåter ni delat ägande mellan förälder och barn?
 
-Ja, detta är tillåtet så länge den boende en andel på minst 10%.
+Ja, detta är tillåtet så länge den boende innehar en andel på minst 10%.
 
 ### Är man berättigad till grönt bolån i föreningen?
 
