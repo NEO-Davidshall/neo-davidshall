@@ -36,6 +36,15 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-responsive-image
+
+responsive_image:
+  template: _includes/responsive-image.html
+  sizes:
+    - width: 480
+    - width: 800
+    - width: 1400
+  strip: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
