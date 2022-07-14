@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="post" itemscope itemtype="https://schema.org/FAQPage">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+  {% for question in site.data.faq %}
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">{{ question.q }}</h3>
+      <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemprop="text">{{ question.a | markdownify }}</div>
+      </div>
+    </div>
+  {% endfor %}
+  </div>
+
+</article>
