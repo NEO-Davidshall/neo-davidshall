@@ -15,4 +15,4 @@ tillgång till en gemensamm tvättstuga, men även en samlingslokal, ett oranger
 en övernattningslägenhet samt en takterrass!
 
 Till föreningen tillhör det dessutom ett garage på 13 platser där det även finns
-tillgång till bil- samt lådcykelpool.
+tillgång till bil- samt cykelpool.
