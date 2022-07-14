@@ -7,7 +7,7 @@ permalink: /about/
 Brf NEO Davidshall ligger belägen mitt i Malmös centrum intill Davidshallstorg.
 Föreningen består av 122 lägenheter fördelat på fem huskroppar: de två gamla
 husen ut mot Storgatan och Verkstadsgatan där polisen tidigare huserade (därav
-benämningen Polishuset) samt ytterliggare tre nya huskroppar som återfinns
+benämningen "polishuset") samt ytterliggare tre nya huskroppar som återfinns
 innanför.
 
 I föreningen finns det flera gemensamma utrymmen och lokaler. Dels finns det
