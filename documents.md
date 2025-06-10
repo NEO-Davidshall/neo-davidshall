@@ -16,3 +16,4 @@ Här hittar ni dokument så som föreningens stadgar samt de senaste årsredovis
 - [Årsredovisning 2021](/assets/%C3%85rsredovisning%202021%2C%20Brf%20NEO%20Davidshall.pdf)
 - [Årsredovisning 2022](/assets/%C3%85rsredovisning%202022%2C%20Brf%20NEO%20Davidshall.pdf)
 - [Årsredovisning 2023](/assets/%C3%85rsredovisning%202023%2C%20Brf%20NEO%20Davidshall.pdf)
+- [Årsredovisning 2024](/assets/%C3%85rsredovisning%202024%2C%20Brf%20NEO%20Davidshall.pdf)
